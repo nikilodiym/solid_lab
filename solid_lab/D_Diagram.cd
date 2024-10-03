@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="DependencyInversion::IGame">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAACEAAAAAAAAACAAAAA=</HashCode>
+      <FileName>D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DependencyInversion::IGameLibrary">
+    <Position X="5.25" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJQAABAAAAAA=</HashCode>
+      <FileName>D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DependencyInversion::GTA6">
+    <Position X="15.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAACAAAAAAACAACAAAAA=</HashCode>
+      <FileName>D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DependencyInversion::Cyberpunk2077">
+    <Position X="10.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAACAAAAAAAAAACAAACA=</HashCode>
+      <FileName>D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DependencyInversion::RDR2">
+    <Position X="13" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAgAAAAAAAAAACAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DependencyInversion::Steam">
+    <Position X="7.25" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJQAABAAAAAA=</HashCode>
+      <FileName>D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DependencyInversion::EpicGames">
+    <Position X="3" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJQAABAAAAAA=</HashCode>
+      <FileName>D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

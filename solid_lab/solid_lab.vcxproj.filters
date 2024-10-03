@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="main">
+      <UniqueIdentifier>{bbe45a77-0ad0-442a-b40f-a361e9f29bff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SOLID">
+      <UniqueIdentifier>{3409d8f4-5e27-46d2-b910-bd22771ae0a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Diagrams">
+      <UniqueIdentifier>{685d9ec7-62c3-4896-9b27-724c5137bd00}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="S.h">
+      <Filter>SOLID</Filter>
+    </ClInclude>
+    <ClInclude Include="O.h">
+      <Filter>SOLID</Filter>
+    </ClInclude>
+    <ClInclude Include="L.h">
+      <Filter>SOLID</Filter>
+    </ClInclude>
+    <ClInclude Include="I.h">
+      <Filter>SOLID</Filter>
+    </ClInclude>
+    <ClInclude Include="D.h">
+      <Filter>SOLID</Filter>
+    </ClInclude>
+    <ClInclude Include="SOLID.h">
+      <Filter>SOLID</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="L_Diagram.cd">
+      <Filter>Diagrams</Filter>
+    </None>
+    <None Include="I_Diagram.cd">
+      <Filter>Diagrams</Filter>
+    </None>
+    <None Include="D_Diagram.cd">
+      <Filter>Diagrams</Filter>
+    </None>
+  </ItemGroup>
+</Project>
